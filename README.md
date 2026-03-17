@@ -35,12 +35,6 @@ AI Model: GPT
 
 - gptvshuman_dataset.csv
 
-[AI-Generated Text Detection (Multi-Model)](https://www.kaggle.com/datasets/bertnardomariouskono/ai-generated-text-detection-multi-model)
-
-AI Model: Multiple
-
-- benchmark_ai_detection_multimodel_2026.csv
-
 [AI vs Human Scientific Text Dataset (AIGTxt)](https://www.kaggle.com/datasets/barkataliarbab/ai-vs-human-scientific-text-dataset)
 
 AI Model: GPT
