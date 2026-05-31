@@ -1,0 +1,11 @@
+Modulo_2/Dev/cinthia/Curated\ endoscopic\ retrograde\ cholangiopancreatography.pdf
+
+Modulo_2/Dev/cinthia/MIQR-CC-Dataset/
+Modulo_2/Dev/cinthia/training/dataset
+
+Modulo_2/Dev/cinthia/training/models/*.pth
+Modulo_2/Dev/cinthia/training/models/*.png
+Modulo_2/Dev/cinthia/training/*.ipynb
+
+!*_cinthia*
+!README.md
