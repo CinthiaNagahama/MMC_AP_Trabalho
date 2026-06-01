@@ -34,7 +34,15 @@ Root:
     - 📙 [subm3-g1-MMC-B.ipynb](Subm3/subm3-g1-MMC-B.ipynb)
   - 📙 dataset_preparation_v2.ipynb
   - 📙 dataset_preparation_v2.ipynb
-  - 📝 enunciadoTrabalho.odf
+  - 📝 enunciadoTrabalho.pdf
 - Modulo_2:
-  - Apresentacao
-  - DEV
+  - 📁 Apresentacao: Diretório contendo o PowerPoint da apresentação
+  - 📁 DEV: Códigos utilizados para treinamento de modelos e experimentos
+    - 📁 cinthia: Modelos desenvolvidos / treinados por Cinthia Ungefehr
+      - 📁 training: Diretório com os notebooks treinados
+      - 📙 exploration.ipynb: Notebook de exploração dos dados
+      - 📙 preprocessing.ipynb: Notebook de pré-processamento desenvolvido por Monica Montes
+    - 📁 fabiano: Modelos desenvolvidos / treinados por Fabiano Sousa (códigos executados no google colab)
+    - 📁 joao: Modelos desenvolvidos / treinados por João Barbosa
+    - 📁 loren: Modelos desenvolvidos / treinados por Lóren Narrane (códigos executados no google colab)
+  - 📝 requirements.txt: Pacotes necessários para execução dos modelos disponíveis nas pastas cinthia, loren e joao. Os códigos da pasta fabiano contém indicação de pacotes necessários em cada notebook.
