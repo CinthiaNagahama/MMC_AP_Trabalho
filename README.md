@@ -36,7 +36,7 @@ Root:
   - 📙 dataset_preparation_v2.ipynb
   - 📝 enunciadoTrabalho.pdf
 - Modulo_2:
-  - 📁 Apresentacao: Diretório contendo o PowerPoint da apresentação
+  - 📁 Apresentacao: Diretório contendo o PowerPoint da apresentação e relatório referente ao módulo 2 do projeto
   - 📁 DEV: Códigos utilizados para treinamento de modelos e experimentos
     - 📁 cinthia: Modelos desenvolvidos / treinados por Cinthia Ungefehr
       - 📁 training: Diretório com os notebooks treinados
